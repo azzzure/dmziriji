@@ -1,0 +1,2 @@
+这是一个示例文件，当然他也可以是任何二进制文件
+This is a example file. It can be any binary file
