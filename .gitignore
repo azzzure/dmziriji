@@ -1,1 +1,5 @@
-/明文
+明文
+.git
+__pycache__
+key.py
+before

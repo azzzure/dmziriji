@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from Crypto.Cipher import AES
 from Crypto.Util.Padding import pad
 from Crypto.Util.Padding import unpad
